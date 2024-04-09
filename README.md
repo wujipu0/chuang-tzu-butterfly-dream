@@ -159,3 +159,7 @@ In infinity category theory, morphisms between different levels of abstraction e
 3. **Cohomology and Higher Structures**: In applications, such as in algebraic topology, higher category theory and the morphisms between different levels of abstraction provide powerful tools for understanding cohomology, homotopy groups, and other complex structures. These applications often require considering how higher-dimensional holes or structures are related, which directly involves morphisms across levels of abstraction.
 
 In essence, infinity category theory provides a rich framework for dealing with structures that have complex internal hierarchies and relationships, including morphisms that connect different levels of abstraction. This allows mathematicians and theorists to capture and work with very nuanced and layered concepts, from advanced algebraic structures to complex topological spaces, in a way that respects the inherent complexities and subtleties of these domains.
+
+---
+
+Licensed under https://creativecommons.org/licenses/by/4.0/
